@@ -1,0 +1,18 @@
+Source: micro
+Maintainer: Jason Heeris <jason.heeris@gmail.com>
+Section: editors
+Priority: optional
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.4
+Homepage: https://github.com/zyedidia/micro
+Vcs-Git: https://github.com/zyedidia/micro.git
+
+Package: micro
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Easy-to-use terminal-based text editor with modern features.
+  Micro is a terminal-based text editor that aims to be easy to use and
+  intuitive, while also taking advantage of the full capabilities of modern
+  terminals. It supports multiple cursors, syntax highlighting, splits and tabs,
+  mouse usage, copy and paste with the system clipboard, and plugins written in
+  Lua.

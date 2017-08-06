@@ -1,0 +1,3 @@
+version=3
+https://github.com/zyedidia/micro/releases .*/releases/download/v([\d\.]+\d)/micro-\1-src\.tar\.gz
+

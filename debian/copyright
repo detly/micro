@@ -1,0 +1,167 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Zachary Yedidia
+Source: https://github.com/zyedidia/micro
+License: Expat
+Copyright: 2016-2017 Zachary Yedidia
+
+Files: *
+Copyright: 2016-2017 Zachary Yedidia
+License: Expat
+
+Files: debian/*
+Copyright: 2017 Jason Heeris <jason.heeris@gmail.com>
+License: Expat
+
+Files: tools/semver/*
+Files: cmd/micro/vendor/github.com/blang/semver/*
+Copyright: 2014 Benedikt Lang <github@benediktlang.de>
+License: Expat
+
+Files: cmd/micro/vendor/github.com/dustin/go-humanize/*
+Copyright: 2005-2008 Dustin Sallings <dustin@spy.net>
+License: Expat
+
+Files: cmd/micro/vendor/github.com/gdamore/encoding/*
+Copyright: 2015 Garrett D'Amore <garrett@damore.org>
+License: Apache-2.0
+
+Files: cmd/micro/vendor/github.com/go-errors/errors/*
+Copyright: 2015-2016 Conrad Irwin
+License: Expat
+
+Files: cmd/micro/vendor/github.com/lucasb-eyer/go-colorful/*
+Copyright: 2013-2017 Lucas Beyer
+License: Expat
+
+Files: cmd/micro/vendor/github.com/mattn/go-isatty/*
+Files: cmd/micro/vendor/github.com/mattn/go-runewidth/*
+Copyright: 2015-2017 Yasuhiro Matsumoto <mattn.jp@gmail.com>
+License: Expat
+
+Files: cmd/micro/vendor/github.com/mitchellh/go-homedir/*
+Copyright: 2014-2016 Mitchell Hashimoto <mitchell.hashimoto@gmail.com>
+License: Expat
+
+Files: cmd/micro/vendor/github.com/sergi/go-diff/*
+Copyright: 2012-2017 Danny Yoo <dannyyoo@google.com>
+           2012-2017 James Kolb <jkolb@google.com>
+           2012-2017 Jonathan Amsterdam <jba@google.com>
+           2012-2017 Markus Zimmermann <markus.zimmermann@nethead.at> <markus.zimmermann@symflower.com> <zimmski@gmail.com>
+           2012-2017 Matt Kovars <akaskik@gmail.com>
+           2012-2017 Örjan Persson <orjan@spotify.com>
+           2012-2017 Osman Masood <oamasood@gmail.com>
+           2012-2017 Robert Carlsen <rwcarlsen@gmail.com>
+           2012-2017 Rory Flynn <roryflynn@users.noreply.github.com>
+           2012-2017 Sergi Mansilla <sergi.mansilla@gmail.com>
+           2012-2017 Shatrugna Sadhu <ssadhu@apcera.com>
+           2012-2017 Shawn Smith <shawnpsmith@gmail.com>
+           2012-2017 Stas Maksimov <maksimov@gmail.com>
+           2012-2017 Tor Arvid Lund <torarvid@gmail.com>
+           2012-2017 Zac Bergquist <zbergquist99@gmail.com>
+License: Expat
+
+Files: cmd/micro/vendor/github.com/yuin/gopher-lua/*
+Copyright: 2015-2017 Yusuke Inuzuka <yuin@outlook.com>
+License: Expat
+
+Files: cmd/micro/vendor/github.com/zyedidia/json5/*
+Copyright: 2011 The Go Authors
+License: BSD-3-clause
+
+Files: cmd/micro/vendor/github.com/zyedidia/clipboard/*
+Copyright: 2013 Ato Araki
+License: BSD-3-clause
+
+Files: cmd/micro/vendor/github.com/zyedidia/poller/*
+Copyright: 2014 Nick Patavalis <npat@efault.net>
+License: BSD-2-clause
+
+Files: cmd/micro/vendor/github.com/zyedidia/*
+Copyright: 2015-2017 Garrett D'Amore <garrett@damore.org>
+           2016-2017 Zachary Yedidia <zyedidia@gmail.com>
+License: Apache-2.0
+
+Files: cmd/micro/vendor/golang.org/*
+Copyright: 2009 The Go Authors
+License: BSD-3-clause
+
+Files: cmd/micro/vendor/gopkg.in/yaml.v2/*
+Copyright: 2009-2017 Canonical Ltd.
+License: Apache-2.0
+
+Files: cmd/micro/vendor/layeh.com/gopher-luar/*
+Copyright: 2015-2017 Tim Cooper <tim.cooper@layeh.com>
+License: MPL-2.0
+
+License: Apache-2.0
+  Refer to /usr/share/common-licenses/Apache-2.0
+
+License: BSD-2-clause
+  Redistribution and use in source and binary forms, with or without
+  modification, are permitted provided that the following conditions are met:
+  .
+  1. Redistributions of source code must retain the above copyright notice, this
+     list of conditions and the following disclaimer.
+  .
+  2. Redistributions in binary form must reproduce the above copyright notice,
+     this list of conditions and the following disclaimer in the documentation
+     and/or other materials provided with the distribution.
+  .
+  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+  AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+  DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+  FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+  DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+  SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+  CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+  OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+License: BSD-3-clause
+  Redistribution and use in source and binary forms, with or without
+  modification, are permitted provided that the following conditions are met:
+  .
+  1. Redistributions of source code must retain the above copyright notice, this
+     list of conditions and the following disclaimer.
+  .
+  2. Redistributions in binary form must reproduce the above copyright notice,
+     this list of conditions and the following disclaimer in the documentation
+     and/or other materials provided with the distribution.
+  .
+  3. Neither the name of the copyright holder nor the names of its contributors
+     may be used to endorse or promote products derived from this software
+     without specific prior written permission.
+  .
+  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+  AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+  DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+  FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+  DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+  SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+  CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+  OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+License: Expat
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  .
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+  .
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+
+License: MPL-2.0
+  /usr/share/common-licenses/MPL-2.0
